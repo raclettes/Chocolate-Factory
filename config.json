@@ -1,0 +1,17 @@
+{
+  "factions": [
+    {
+      "alerts_channel": 0,
+      "templates": [
+        {
+          "name": "This template name.",
+          "file": "myimage.png",
+          "sx": 0,
+          "sy": 0,
+          "ex": 1,
+          "ey": 1
+        }
+      ]
+    }
+  ]
+}
