@@ -28,31 +28,31 @@
         },
         {
           "name": "Pixelgrad_Sector1",
-          "file": "pr_sector1.png",
+          "file": "pr_sector1.PNG",
           "x": -423,
           "y": -861
         },
         {
           "name": "Pixelgrad_Sector2",
-          "file": "pr_sector2.png",
+          "file": "pr_sector2.PNG",
           "x": -721,
           "y": -698
         },
         {
           "name": "Pixelgrad_Sector3",
-          "file": "pr_sector3.png",
+          "file": "pr_sector3.PNG",
           "x": -240,
           "y": -709
         },
         {
           "name": "Pixelgrad_Sector4",
-          "file": "pr_sector4.png",
+          "file": "pr_sector4.PNG",
           "x": -240,
           "y": -463
         },
         {
           "name": "Pixelgrad_Sector5",
-          "file": "pr_sector5.png",
+          "file": "pr_sector5.PNG",
           "x": -121,
           "y": -1034
         },
