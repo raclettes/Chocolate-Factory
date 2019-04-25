@@ -15,85 +15,85 @@
       "alerts_channel": 571055692698484737,
       "templates": [
         {
-          "name": "Pixelgrad_MainFlag",
+          "name": "Pixelgrad: MainFlag",
           "file": "pr_mf.png",
           "x": -670,
           "y": -698
         },
         {
-          "name": "Pixelgrad_CWW",
+          "name": "Pixelgrad: Communism Will Win",
           "file": "pr_cww.png",
           "x": -670,
           "y": -469
         },
         {
-          "name": "Pixelgrad_Sector1",
+          "name": "Pixelgrad: Sector 01",
           "file": "pr_sector1.PNG",
           "x": -423,
           "y": -861
         },
         {
-          "name": "Pixelgrad_Sector2",
+          "name": "Pixelgrad: Sector 02",
           "file": "pr_sector2.PNG",
           "x": -721,
           "y": -698
         },
         {
-          "name": "Pixelgrad_Sector3",
+          "name": "Pixelgrad: Sector03",
           "file": "pr_sector3.PNG",
           "x": -240,
           "y": -709
         },
         {
-          "name": "Pixelgrad_Sector4",
+          "name": "Pixelgrad: Sector 04",
           "file": "pr_sector4.PNG",
           "x": -240,
           "y": -463
         },
         {
-          "name": "Pixelgrad_Sector5",
+          "name": "Pixelgrad: Sector 05",
           "file": "pr_sector5.PNG",
           "x": -121,
           "y": -1034
         },
         {
-          "name": "BlackBase",
+          "name": "Black Base",
           "file": "bb.png",
           "x": 4670,
           "y": 3738
         },
         {
-          "name": "RedBase",
+          "name": "Red Base",
           "file": "redbase.png",
           "x": 7290,
           "y": 1739
         },
         {
-          "name": "RainbowBase",
+          "name": "Rainbow Base",
           "file": "rb.png",
           "x": 2522,
           "y": -3700
         },
         {
-          "name": "RedMenace_MainFlag",
+          "name": "RedMenace: Main Flag",
           "file": "rm_mf.png",
           "x": -1877,
           "y": 3441
         },
         {
-          "name": "RedMenace_Maoist",
+          "name": "RedMenace: Maoists Flags",
           "file": "rm_maoist.png",
           "x": -1737,
           "y": 3250
         },
         {
-          "name": "RedMenace_Sector1",
+          "name": "RedMenace: Sector 01",
           "file": "rm_sector1.png",
           "x": -2074,
           "y": 3250
         },
         {
-          "name": "RedMenace_Sector2",
+          "name": "RedMenace: Sector 02",
           "file": "rm_sector2.png",
           "x": -2173,
           "y": 3505
