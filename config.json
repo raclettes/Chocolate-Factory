@@ -7,9 +7,7 @@
           "name": "This template name.",
           "file": "myimage.png",
           "sx": 0,
-          "sy": 0,
-          "ex": 1,
-          "ey": 1
+          "sy": 0
         }
       ]
     }
