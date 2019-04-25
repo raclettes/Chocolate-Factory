@@ -13,7 +13,93 @@
     },
     {
       "alerts_channel": 571055692698484737,
-      "templates": []
+      "templates": [
+        {
+          "name": "Pixelgrad_MainFlag",
+          "file": "pr_mf.png",
+          "x": -670,
+          "y": -698
+        },
+        {
+          "name": "Pixelgrad_CWW",
+          "file": "pr_cww.png",
+          "x": -670,
+          "y": -469
+        },
+        {
+          "name": "Pixelgrad_Sector1",
+          "file": "pr_sector1.png",
+          "x": -423,
+          "y": -861
+        },
+        {
+          "name": "Pixelgrad_Sector2",
+          "file": "pr_sector2.png",
+          "x": -721,
+          "y": -698
+        },
+        {
+          "name": "Pixelgrad_Sector3",
+          "file": "pr_sector3.png",
+          "x": -240,
+          "y": -709
+        },
+        {
+          "name": "Pixelgrad_Sector4",
+          "file": "pr_sector4.png",
+          "x": -240,
+          "y": -463
+        },
+        {
+          "name": "Pixelgrad_Sector5",
+          "file": "pr_sector5.png",
+          "x": -121,
+          "y": -1034
+        },
+        {
+          "name": "BlackBase",
+          "file": "bb.png",
+          "x": 4670,
+          "y": 3738
+        },
+        {
+          "name": "RedBase",
+          "file": "redbase.png",
+          "x": 7290,
+          "y": 1739
+        },
+        {
+          "name": "RainbowBase",
+          "file": "rb.png",
+          "x": 2522,
+          "y": -3700
+        },
+        {
+          "name": "RedMenace_MainFlag",
+          "file": "rm_mf.png",
+          "x": -1877,
+          "y": 3441
+        },
+        {
+          "name": "RedMenace_Maoist",
+          "file": "rm_maoist.png",
+          "x": -1737,
+          "y": 3250
+        },
+        {
+          "name": "RedMenace_Sector1",
+          "file": "rm_sector1.png",
+          "x": -2074,
+          "y": 3250
+        },
+        {
+          "name": "RedMenace_Sector2",
+          "file": "rm_sector2.png",
+          "x": -2173,
+          "y": 3505
+        }
+
+      ]
     }
   ]
 }
