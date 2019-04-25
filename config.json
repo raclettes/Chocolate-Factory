@@ -1,13 +1,13 @@
 {
   "factions": [
     {
-      "alerts_channel": 0,
+      "alerts_channel": 560465863258537996,
       "templates": [
         {
-          "name": "This template name.",
-          "file": "myimage.png",
-          "sx": 0,
-          "sy": 0
+          "name": "Lup",
+          "file": "traa_lup.png",
+          "sx": 138878,
+          "sy": -22996
         }
       ]
     }
