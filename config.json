@@ -4,10 +4,46 @@
       "alerts_channel": 571086843697692693,
       "templates": [
         {
-          "name": "Lup",
-          "file": "traa_lup.png",
-          "x": 138878,
-          "y": -22996
+          "name": "East End",
+          "file": "traa_eastEnd.png",
+          "x": 1607,
+          "y": 864
+        },
+        {
+          "name": "Far East",
+          "file": "traa_farEast.png",
+          "x": 2290,
+          "y": 858
+        },
+        {
+          "name": "Giant Trans Flag",
+          "file": "traa_giantFlag.png",
+          "x": 139735,
+          "y": -22357
+        },
+        {
+          "name": "Northern Annex",
+          "file": "traa_northernAnnex.png",
+          "x": 1289,
+          "y": 687
+        },
+        {
+          "name": "Outpost",
+          "file": "traa_outpost.png",
+          "x": 138865,
+          "y": -23009
+        },
+        {
+          "name": "Pride Flag",
+          "file": "traa_prideFlag.png",
+          "x": 1380,
+          "y": -90
+        },
+        {
+          "name": "Trans Diamond",
+          "file": "traa_transDiamond.png",
+          "x": -108,
+          "y": -108
         }
       ]
     },
