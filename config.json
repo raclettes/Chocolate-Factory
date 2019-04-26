@@ -97,7 +97,62 @@
           "file": "rm_sector2.png",
           "x": -2173,
           "y": 3505
+        },
+        {
+          "name": "Center: Arkie",
+          "file": "center_arkie.png",
+          "x": 98,
+          "y": -603
+        },
+        {
+          "name": "Center: Birds",
+          "file": "center_birds.png",
+          "x": 18,
+          "y": -253
+        },
+        {
+          "name": "Center: CNT FAI",
+          "file": "center_cnt-fai.png",
+          "x": 238,
+          "y": -184
+        },
+        {
+          "name": "Center: UFO",
+          "file": "center_ufo.png",
+          "x": 337,
+          "y": -102
+        },
+        {
+          "name": "GreaterPixelgrad: K.P.D.",
+          "file": "gp_kpd.png",
+          "x": 8293,
+          "y": -5061
+        },
+        {
+          "name": "GreaterPixelgrad: PCM",
+          "file": "gp_pcm.png",
+          "x": 7611,
+          "y": -4135
+        },
+        {
+          "name": "GreaterPixelgrad: Republica",
+          "file": "gp_republica.png",
+          "x": 7965,
+          "y": -4381
+        },
+        {
+          "name": "GreaterPixelgrad: Saint Stalin",
+          "file": "gp_ststalin.png",
+          "x": 7728,
+          "y": -4708
+        },
+        {
+          "name": "Fidel & Che",
+          "file": "fidel-che.png",
+          "x": 3128,
+          "y": 3350
         }
+
 
       ]
     }
