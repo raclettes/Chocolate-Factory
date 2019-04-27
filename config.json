@@ -2,6 +2,20 @@
   "factions": [
     {
       "alerts_channel": 571086843697692693,
+      "alert_levels": [
+        {
+          "hits": 10,
+          "role_id": 565245624128110623
+        },
+        {
+          "hits": 20,
+          "role_id": 568443193046204421
+        },
+        {
+          "hits": 50,
+          "role_id": 568443484873162752
+        }
+      ],
       "templates": [
         {
           "name": "East End",
@@ -49,6 +63,7 @@
     },
     {
       "alerts_channel": 571055692698484737,
+      "alert_levels": [],
       "templates": [
         {
           "name": "Pixelgrad: MainFlag",
