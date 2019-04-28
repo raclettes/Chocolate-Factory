@@ -52,6 +52,12 @@
           "file": "traa_transDiamond.png",
           "x": -108,
           "y": -108
+        },
+        {
+          "name": "Main Base",
+          "file": "traa_mainBase.png",
+          "x": 1207,
+          "y": 848
         }
       ]
     },
