@@ -156,10 +156,10 @@
           "y": -603
         },
         {
-          "name": "Center: Birds",
-          "file": "center_birds.png",
-          "x": 18,
-          "y": -253
+          "name": "Center: Felix Art",
+          "file": "center_felixart.png",
+          "x": -137,
+          "y": -258
         },
         {
           "name": "Center: CNT FAI",
@@ -208,8 +208,19 @@
           "file": "fidel-che.png",
           "x": 3128,
           "y": 3350
+        },
+        {
+          "name": "216",
+          "file": "216.png",
+          "x": 270,
+          "y": 5721
+        },
+        {
+          "name": "Vedic",
+          "file": "vedic.png",
+          "x": 695,
+          "y": 5900
         }
-
 
       ]
     }
