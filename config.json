@@ -220,6 +220,12 @@
           "file": "vedic.png",
           "x": 695,
           "y": 5900
+        },
+        {
+          "name": "Ally: Vasco",
+          "file": "ally_vasco.png",
+          "x": 57,
+          "y": -731
         }
 
       ]
