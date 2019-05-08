@@ -150,6 +150,12 @@
           "y": 3505
         },
         {
+          "name": "RedMenace: Tranarchy Flag",
+          "file": "rm_tranarchy.png",
+          "x": -2597,
+          "y": 3438
+        },
+        {
           "name": "Center: Arkie",
           "file": "center_arkie.png",
           "x": 98,
