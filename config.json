@@ -67,169 +67,169 @@
       "templates": [
         {
           "name": "Pixelgrad: MainFlag",
-          "file": "pr_mf.png",
+          "file": "RedPixel/pr_mf.png",
           "x": -670,
           "y": -698
         },
         {
           "name": "Pixelgrad: Communism Will Win",
-          "file": "pr_cww.png",
+          "file": "RedPixel/pr_cww.png",
           "x": -670,
           "y": -469
         },
         {
           "name": "Pixelgrad: Sector 01",
-          "file": "pr_sector1.PNG",
+          "file": "RedPixel/pr_sector1.PNG",
           "x": -423,
           "y": -861
         },
         {
           "name": "Pixelgrad: Sector 02",
-          "file": "pr_sector2.PNG",
+          "file": "RedPixel/pr_sector2.PNG",
           "x": -721,
           "y": -698
         },
         {
           "name": "Pixelgrad: Sector03",
-          "file": "pr_sector3.PNG",
+          "file": "RedPixel/pr_sector3.PNG",
           "x": -240,
           "y": -709
         },
         {
           "name": "Pixelgrad: Sector 04",
-          "file": "pr_sector4.PNG",
+          "file": "RedPixel/pr_sector4.PNG",
           "x": -240,
           "y": -463
         },
         {
           "name": "Pixelgrad: Sector 05",
-          "file": "pr_sector5.PNG",
+          "file": "RedPixel/pr_sector5.PNG",
           "x": -121,
           "y": -1034
         },
         {
           "name": "Black Base",
-          "file": "bb.png",
+          "file": "RedPixel/bb.png",
           "x": 4670,
           "y": 3738
         },
         {
           "name": "Red Base",
-          "file": "redbase.png",
+          "file": "RedPixel/redbase.png",
           "x": 7290,
           "y": 1739
         },
         {
           "name": "Rainbow Base",
-          "file": "rb.png",
+          "file": "RedPixel/rb.png",
           "x": 2522,
           "y": -3700
         },
         {
           "name": "RedMenace: Main Flag",
-          "file": "rm_mf.png",
+          "file": "RedPixel/rm_mf.png",
           "x": -1877,
           "y": 3441
         },
         {
           "name": "RedMenace: Maoists Flags",
-          "file": "rm_maoist.png",
+          "file": "RedPixel/rm_maoist.png",
           "x": -1737,
           "y": 3250
         },
         {
           "name": "RedMenace: Sector 01",
-          "file": "rm_sector1.png",
+          "file": "RedPixel/rm_sector1.png",
           "x": -2074,
           "y": 3250
         },
         {
           "name": "RedMenace: Sector 02",
-          "file": "rm_sector2.png",
+          "file": "RedPixel/rm_sector2.png",
           "x": -2173,
           "y": 3505
         },
         {
           "name": "RedMenace: Tranarchy Flag",
-          "file": "rm_tranarchy.png",
+          "file": "RedPixel/rm_tranarchy.png",
           "x": -2597,
           "y": 3438
         },
         {
           "name": "Center: Arkie",
-          "file": "center_arkie.png",
+          "file": "RedPixel/center_arkie.png",
           "x": 98,
           "y": -603
         },
         {
           "name": "Center: Felix Art",
-          "file": "center_felixart.png",
+          "file": "RedPixel/center_felixart.png",
           "x": -137,
           "y": -258
         },
         {
           "name": "Center: CNT FAI",
-          "file": "center_cnt-fai.png",
+          "file": "RedPixel/center_cnt-fai.png",
           "x": 238,
           "y": -184
         },
         {
           "name": "Center: UFO",
-          "file": "center_ufo.png",
+          "file": "RedPixel/center_ufo.png",
           "x": 337,
           "y": -102
         },
         {
           "name": "Center: Rose",
-          "file": "center_rose.png",
+          "file": "RedPixel/center_rose.png",
           "x": -443,
           "y": -242
         },
         {
           "name": "GreaterPixelgrad: K.P.D.",
-          "file": "gp_kpd.png",
+          "file": "RedPixel/gp_kpd.png",
           "x": 8293,
           "y": -5061
         },
         {
           "name": "GreaterPixelgrad: PCM",
-          "file": "gp_pcm.png",
+          "file": "RedPixel/gp_pcm.png",
           "x": 7611,
           "y": -4135
         },
         {
           "name": "GreaterPixelgrad: Republica",
-          "file": "gp_republica.png",
+          "file": "RedPixel/gp_republica.png",
           "x": 7965,
           "y": -4381
         },
         {
           "name": "GreaterPixelgrad: Saint Stalin",
-          "file": "gp_ststalin.png",
+          "file": "RedPixel/gp_ststalin.png",
           "x": 7728,
           "y": -4708
         },
         {
           "name": "Fidel & Che",
-          "file": "fidel-che.png",
+          "file": "RedPixel/fidel-che.png",
           "x": 3128,
           "y": 3350
         },
         {
           "name": "216",
-          "file": "216.png",
+          "file": "RedPixel/216.png",
           "x": 270,
           "y": 5721
         },
         {
           "name": "Vedic",
-          "file": "vedic.png",
+          "file": "RedPixel/vedic.png",
           "x": 695,
           "y": 5900
         },
         {
           "name": "Ally: Vasco",
-          "file": "ally_vasco.png",
+          "file": "RedPixel/ally_vasco.png",
           "x": 57,
           "y": -731
         }
