@@ -42,9 +42,9 @@
           "y": -23009
         },
         {
-          "name": "Pride Flag",
-          "file": "traa_prideFlag.png",
-          "x": 1380,
+          "name": "Pride Flags",
+          "file": "traa_prideFlags.png",
+          "x": 1343,
           "y": -90
         },
         {
@@ -148,6 +148,12 @@
           "file": "rm_sector2.png",
           "x": -2173,
           "y": 3505
+        },
+        {
+          "name": "RedMenace: Tranarchy Flag",
+          "file": "rm_tranarchy.png",
+          "x": -2597,
+          "y": 3438
         },
         {
           "name": "Center: Arkie",
