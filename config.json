@@ -19,43 +19,43 @@
       "templates": [
         {
           "name": "East End",
-          "file": "traa_eastEnd.png",
+          "file": "PixelTraa/eastEnd.png",
           "x": 1604,
           "y": 863
         },
         {
           "name": "Far East",
-          "file": "traa_farEast.png",
+          "file": "PixelTraa/farEast.png",
           "x": 2290,
           "y": 858
         },
         {
           "name": "Northern Annex",
-          "file": "traa_northernAnnex.png",
+          "file": "PixelTraa/northernAnnex.png",
           "x": 1289,
           "y": 687
         },
         {
           "name": "Outpost",
-          "file": "traa_outpost.png",
+          "file": "PixelTraa/outpost.png",
           "x": 138865,
           "y": -23009
         },
         {
           "name": "Pride Flags",
-          "file": "traa_prideFlags.png",
+          "file": "PixelTraa/prideFlags.png",
           "x": 1343,
           "y": -90
         },
         {
           "name": "Trans Diamond",
-          "file": "traa_transDiamond.png",
+          "file": "PixelTraa/transDiamond.png",
           "x": -108,
           "y": -108
         },
         {
           "name": "Main Base",
-          "file": "traa_mainBase.png",
+          "file": "PixelTraa/mainBase.png",
           "x": 1207,
           "y": 848
         }
