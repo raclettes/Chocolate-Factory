@@ -43,9 +43,9 @@
         },
         {
           "name": "Outpost Slime Zone",
-          "file": "PixelTraa/op_slimeZone_charlie.png",
+          "file": "PixelTraa/op_slimeZone.png",
           "x": 138316, 
-          "y": -22599
+          "y": -22619
         },
         {
           "name": "Outpost Tabby Square",
@@ -55,7 +55,7 @@
         },
         {
           "name": "Outpost The Loop",
-          "file": "PixelTraa/op_theLoop_charlie.png",
+          "file": "PixelTraa/op_theLoop.png",
           "x": 138805, 
           "y": -23009
         },
