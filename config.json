@@ -36,10 +36,34 @@
           "y": 687
         },
         {
-          "name": "Outpost",
-          "file": "PixelTraa/outpost.png",
-          "x": 138865,
+          "name": "Outpost Commune",
+          "file": "PixelTraa/op_commune.png",
+          "x": 139187,
+          "y": -22648
+        },
+        {
+          "name": "Outpost Slime Zone",
+          "file": "PixelTraa/op_slimeZone.png",
+          "x": 138316, 
+          "y": -22619
+        },
+        {
+          "name": "Outpost Tabby Square",
+          "file": "PixelTraa/op_tabbySquare_charlie.png",
+          "x": 139131, 
+          "y": -22228
+        },
+        {
+          "name": "Outpost The Loop",
+          "file": "PixelTraa/op_theLoop.png",
+          "x": 138805, 
           "y": -23009
+        },
+        {
+          "name": "Outpost Tranos Car Park",
+          "file": "PixelTraa/op_tranosCarPark_charlie.png",
+          "x": 139734, 
+          "y": -22918
         },
         {
           "name": "Pride Flags",
