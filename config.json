@@ -221,12 +221,7 @@
           "x": -2087,
           "y": 3804
         },
-          "name": "Red Menance: Sector 9",
-          "file": "RedPixel/rm_sector9.PNG",
-          "x": -2087,
-          "y": 3804
-        },
-		{
+	{
           "name": "Red Menance: Sector 10",
           "file": "RedPixel/rm_sector10.PNG",
           "x": -1566,
