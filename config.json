@@ -169,84 +169,79 @@
         },
 		{
           "name": "Red Menance: Sector 1",
-          "file": "RedPixel/rm_sector1.PNG",
+          "file": "RedPixel/rm_sector1.png",
           "x": -2128,
           "y": 2748
         },
 		{
           "name": "Red Menance: Sector 2",
-          "file": "RedPixel/rm_sector2.PNG",
+          "file": "RedPixel/rm_sector2.png",
           "x": -2174,
           "y": 3249
         },
 		{
           "name": "Red Menance: Sector 3",
-          "file": "RedPixel/rm_sector3.PNG",
+          "file": "RedPixel/rm_sector3.png",
           "x": -1604,
           "y": 3191
         },
 		{
           "name": "Red Menance: Sector 4",
-          "file": "RedPixel/rm_sector4.PNG",
+          "file": "RedPixel/rm_sector4.png",
           "x": -2377,
           "y": 3478
         },
 		{
           "name": "Red Menance: Sector 5",
-          "file": "RedPixel/rm_sector5.PNG",
+          "file": "RedPixel/rm_sector5.png",
           "x": -1807,
           "y": 3693
         },
 		{
           "name": "Red Menance: Sector 6",
-          "file": "RedPixel/rm_sector6.PNG",
+          "file": "RedPixel/rm_sector6.png",
           "x": -1456,
           "y": 3504
         },
 		{
           "name": "Red Menance: Sector 7",
-          "file": "RedPixel/rm_sector7.PNG",
+          "file": "RedPixel/rm_sector7.png",
           "x": -2728,
           "y": 3558
         },
 		{
           "name": "Red Menance: Sector 8",
-          "file": "RedPixel/rm_sector8.PNG",
+          "file": "RedPixel/rm_sector8.png",
           "x": -2776,
           "y": 3788
         },
-		{
+	{
           "name": "Red Menance: Sector 9",
-          "file": "RedPixel/rm_sector9.PNG",
+          "file": "RedPixel/rm_sector9.png",
           "x": -2087,
           "y": 3804
         },
-          "name": "Red Menance: Sector 9",
-          "file": "RedPixel/rm_sector9.PNG",
-          "x": -2087,
-          "y": 3804
-        },
-		{
+	{
           "name": "Red Menance: Sector 10",
-          "file": "RedPixel/rm_sector10.PNG",
+          "file": "RedPixel/rm_sector10.png",
           "x": -1566,
           "y": 3847
         },
 		{
           "name": "Red Menance: Sector 11",
-          "file": "RedPixel/rm_sector11.PNG",
+          "file": "RedPixel/rm_sector11.png",
           "x": -2034,
           "y": 4237
         },
 		{
           "name": "Red Menance: Sector 12",
-          "file": "RedPixel/rm_sector12.PNG",
+          "file": "RedPixel/rm_sector12.png",
           "x": -2438,
           "y": 4181
         },
 		{
           "name": "Red Menance: Sector 13",
-          "file": "RedPixel/rm_sector13.PNG",
+          "file": "RedPixel/rm_sector13.png",
           "x": -3250,
           "y": 4250
         },
