@@ -57,7 +57,7 @@
           "name": "Outpost The Loop",
           "file": "PixelTraa/op_theLoop.png",
           "x": 138805, 
-          "y": -23009
+          "y": -23044
         },
         {
           "name": "Outpost Tranos Car Park",
@@ -148,12 +148,6 @@
           "file": "RedPixel/pr_sector8.png",
           "x": -53,
           "y": -614
-        },
-        {
-          "name": "Red Menance: America",
-          "file": "RedPixel/rm_credits.png",
-          "x": -1724,
-          "y": 2774
         },
 		{
           "name": "Red Menance: America",
