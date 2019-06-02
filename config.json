@@ -337,76 +337,28 @@
       "alert_levels": [],
       "templates": [
         {
-          "name": "AntiFa Milkshake",
-          "file": "Kukistan/antifaMilkshake.png",
-          "x": -2452,
-          "y": 2922
-        },
-        {
-          "name": "Be gay",
-          "file": "Kukistan/begay.png",
-          "x": -2472,
-          "y": 3171
-        },
-        {
-          "name": "Be gay, do crime",
-          "file": "Kukistan/bgdc.png",
-          "x": -3238,
+          "name": "kuk_west",
+          "file": "Kukistan/kuk_west.png",
+          "x": -3677,
           "y": 2776
         },
         {
-          "name": "Boomer",
-          "file": "Kukistan/boomer.png",
+          "name": "kuk_north",
+          "file": "Kukistan/kuk_north.png",
+          "x": -3029,
+          "y": 2763
+        },
+        {
+          "name": "kuk_south",
+          "file": "Kukistan/kuk_south.png",
           "x": -2974,
-          "y": 3188
+          "y": 3171
         },
         {
-          "name": "Contra",
-          "file": "Kukistan/contra.png",
-          "x": -2595,
-          "y": 2816
-        },
-        {
-          "name": "CTF",
-          "file": "Kukistan/CTF.png",
-          "x": -3395,
-          "y": 3369
-        },
-        {
-          "name": "Dan Momument (Dialysis!)",
-          "file": "Kukistan/danMonument.png",
-          "x": -2544,
-          "y": 3303
-        },
-        {
-          "name": "Hex Fash",
-          "file": "Kukistan/hex-fash.png",
-          "x": -2195,
-          "y": 2874
-        },
-        {
-          "name": "Nirvana",
-          "file": "Kukistan/nirvana.png",
-          "x": -3099,
-          "y": 3016
-        },
-        {
-          "name": "NPFO",
-          "file": "Kukistan/NPFO.png",
-          "x": -2627,
-          "y": 3212
-        },
-        {
-          "name": "Space Pixels",
-          "file": "Kukistan/space-pixels.png",
-          "x": -2754,
-          "y": 3208
-        },
-        {
-          "name": "Tranarchy",
-          "file": "Kukistan/tranarchy.png",
-          "x": -2597,
-          "y": 3438
+          "name": "kuk_east",
+          "file": "Kukistan/kuk_east.png",
+          "x": -2353,
+          "y": 2784
         }
       ]
     }
