@@ -18,12 +18,6 @@
       ],
       "templates": [
         {
-          "name": "Trans Diamond",
-          "file": "PixelTraa/transDiamond.png",
-          "x": -108,
-          "y": -108
-        },
-        {
           "name": "East End",
           "file": "PixelTraa/eastEnd.png",
           "x": 1604,
