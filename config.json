@@ -239,10 +239,10 @@
           "x": -3250,
           "y": 4250
         },
-		        {
+	{
           "name": "Red Menance: Sector 14",
           "file": "RedPixel/rm_sector14.png",
-          "x": -3000
+          "x": -3000,
           "y": 3832
         },
         {
@@ -339,7 +339,7 @@
         {
           "name": "kuk_west",
           "file": "Kukistan/kuk_west.png",
-          "x": -3677,
+          "x": -3687,
           "y": 2776
         },
         {
