@@ -72,6 +72,12 @@
           "y": -90
         },
         {
+          "name": "Trans Diamond",
+          "file": "PixelTraa/transDiamond.png",
+          "x": -107,
+          "y": -107
+        },
+        {
           "name": "Main Base",
           "file": "PixelTraa/mainBase.png",
           "x": 1207,
@@ -346,12 +352,12 @@
           "name": "kuk_north",
           "file": "Kukistan/kuk_north.png",
           "x": -3029,
-          "y": 2763
+          "y": 2762
         },
         {
           "name": "kuk_south",
           "file": "Kukistan/kuk_south.png",
-          "x": -2974,
+          "x": -3023,
           "y": 3171
         },
         {
