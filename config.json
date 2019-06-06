@@ -361,9 +361,9 @@
           "y": 3171
         },
         {
-          "name": "kuk_east",
-          "file": "Kukistan/kuk_east.png",
-          "x": -2353,
+          "name": "kuk-east",
+          "file": "Kukistan/kuk-east.png",
+          "x": -2371,
           "y": 2784
         }
       ]
