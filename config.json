@@ -49,7 +49,7 @@
         },
         {
           "name": "Outpost Tabby Square",
-          "file": "PixelTraa/op_tabbySquare_charlie.png",
+          "file": "PixelTraa/op_tabbySquare.png",
           "x": 139131,
           "y": -22228
         },
@@ -61,7 +61,7 @@
         },
         {
           "name": "Outpost Tranos Car Park",
-          "file": "PixelTraa/op_tranosCarPark_charlie.png",
+          "file": "PixelTraa/op_tranosCarPark.png",
           "x": 139734,
           "y": -22918
         },
@@ -82,6 +82,12 @@
           "file": "PixelTraa/mainBase.png",
           "x": 1207,
           "y": 848
+        },
+        {
+          "name": "Center Stevonnie",
+          "file": "PixelTraa/cen_stevonnie.png",
+          "x": -1040,
+          "y": -812
         }
       ]
     },
