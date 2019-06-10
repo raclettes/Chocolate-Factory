@@ -337,6 +337,12 @@
           "y": 5900
         },
         {
+          "name": "Other: AFA Flag",
+          "file": "RedPixel/afa-flag.png",
+          "x": -1295,
+          "y": -1019
+        },
+        {
           "name": "Ally: Vasco: Templario",
           "file": "RedPixel/ally_vasco_templario.png",
           "x": 57,
