@@ -155,6 +155,12 @@
           "x": -53,
           "y": -614
         },
+		{
+		  "name": "Pixelgrad: Touhou Protectorate",
+          "file": "RedPixel/pr_touhou.png",
+          "x": -834,
+          "y": -869
+        },
         {
           "name": "Red Menance: America",
           "file": "RedPixel/rm_america.png",
