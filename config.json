@@ -155,6 +155,12 @@
           "x": -53,
           "y": -614
         },
+		{
+		  "name": "Pixelgrad: Touhou Protectorate",
+          "file": "RedPixel/pr_touhou.png",
+          "x": -834,
+          "y": -869
+        },
         {
           "name": "Red Menance: America",
           "file": "RedPixel/rm_america.png",
@@ -346,7 +352,7 @@
           "name": "Ally: Vasco: Templario",
           "file": "RedPixel/ally_vasco_templario.png",
           "x": 57,
-          "y": -731
+          "y": -732
         }
       ]
     },
@@ -355,25 +361,25 @@
       "alert_levels": [],
       "templates": [
         {
-          "name": "kuk_west",
-          "file": "Kukistan/kuk_west.png",
+          "name": "Kukistan West",
+          "file": "Kukistan/kuk-west.png",
           "x": -3687,
           "y": 2776
         },
         {
-          "name": "kuk_north",
+          "name": "Kukistan North",
           "file": "Kukistan/kuk_north.png",
           "x": -3029,
           "y": 2762
         },
         {
-          "name": "kuk_south",
+          "name": "Kukistan south",
           "file": "Kukistan/kuk_south.png",
           "x": -3023,
           "y": 3171
         },
         {
-          "name": "kuk-east",
+          "name": "Kukistan East",
           "file": "Kukistan/kuk-east.png",
           "x": -2371,
           "y": 2784
