@@ -362,13 +362,13 @@
         },
         {
           "name": "Kukistan North",
-          "file": "Kukistan/kuk_north.png",
+          "file": "Kukistan/kuk-north.png",
           "x": -3029,
           "y": 2762
         },
         {
           "name": "Kukistan south",
-          "file": "Kukistan/kuk_south.png",
+          "file": "Kukistan/kuk-south.png",
           "x": -3023,
           "y": 3171
         },
