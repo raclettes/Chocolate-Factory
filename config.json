@@ -371,6 +371,12 @@
           "file": "Kukistan/kuk-east.png",
           "x": -2393,
           "y": 2756
+        },
+        {
+          "name": "Friendship",
+          "file": "Kukistan/friendship.png",
+          "x": 627,
+          "y": 358
         }
       ]
     }
