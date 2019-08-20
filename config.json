@@ -18,49 +18,49 @@
       ],
       "templates": [
         {
-          "name": "East End",
-          "file": "PixelTraa/eastEnd.png",
+          "name": "Main Base: East End",
+          "file": "PixelTraa/mb_eastEnd.png",
           "x": 1604,
           "y": 863
         },
         {
-          "name": "Far East",
-          "file": "PixelTraa/farEast.png",
+          "name": "Main Base: Far East",
+          "file": "PixelTraa/mb_farEast.png",
           "x": 2290,
           "y": 858
         },
         {
-          "name": "Northern Annex",
+          "name": "Main Base: Northern Annex",
           "file": "PixelTraa/mb_northernAnnex.png",
           "x": 1289,
           "y": 639
         },
         {
-          "name": "Outpost Commune",
+          "name": "Outpost: Commune",
           "file": "PixelTraa/op_commune.png",
           "x": 139187,
           "y": -22648
         },
         {
-          "name": "Outpost Slime Zone",
+          "name": "Outpost: Slime Zone",
           "file": "PixelTraa/op_slimeZone.png",
           "x": 138205,
           "y": -22619
         },
         {
-          "name": "Outpost Tabby Square",
+          "name": "Outpost: Tabby Square",
           "file": "PixelTraa/op_tabbySquare.png",
           "x": 139131,
           "y": -22228
         },
         {
-          "name": "Outpost The Loop",
+          "name": "Outpost: The Loop",
           "file": "PixelTraa/op_theLoop.png",
           "x": 138805,
           "y": -23148
         },
         {
-          "name": "Outpost Tranos Car Park",
+          "name": "Outpost: Tranos Car Park",
           "file": "PixelTraa/op_tranosCarPark.png",
           "x": 139502,
           "y": -22917
@@ -84,13 +84,13 @@
           "y": -107
         },
         {
-          "name": "Main Base",
-          "file": "PixelTraa/mainBase.png",
+          "name": "Main Base: Central",
+          "file": "PixelTraa/mb_central.png",
           "x": 1207,
           "y": 848
         },
         {
-          "name": "Center Stevonnie",
+          "name": "Center: Stevonnie",
           "file": "PixelTraa/cen_stevonnie.png",
           "x": -1040,
           "y": -812
