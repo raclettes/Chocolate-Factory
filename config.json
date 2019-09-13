@@ -66,6 +66,12 @@
           "y": -22917
         },
         {
+          "name": "Outpost: Outskirts",
+          "file": "PixelTraa/op_outskirts.png",
+          "x": 140614,
+          "y": -23439
+        },
+        {
           "name": "Outpost Beeeeeeees",
           "file": "PixelTraa/op_bees.png",
           "x": 136175,
