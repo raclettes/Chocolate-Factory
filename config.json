@@ -330,6 +330,12 @@
           "y": 3350
         },
         {
+          "name": "Protracted",
+          "file": "RedPixel/protracted.png",
+          "x": -1087,
+          "y": -30
+        },
+        {
           "name": "Other: 216",
           "file": "RedPixel/other_216.png",
           "x": 270,
