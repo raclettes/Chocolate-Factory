@@ -106,6 +106,30 @@
           "file": "PixelTraa/cen_gayspersAndTrainer.png",
           "x": -1024,
           "y": -531
+        },
+        {
+          "name": "Center: Background",
+          "file": "PixelTraa/cen_bg.png",
+          "x": -1260,
+          "y": -812
+        },
+        {
+          "name": "Center: Milkshakes",
+          "file": "PixelTraa/cen_milkshakes.png",
+          "x": -1250,
+          "y": -653
+        },
+        {
+          "name": "Center: Pineapple",
+          "file": "PixelTraa/cen_pineapple.png",
+          "x": -1341,
+          "y": -897
+        },
+        {
+          "name": "Center: Tiresias",
+          "file": "PixelTraa/cen_tiresias.png",
+          "x": -1260,
+          "y": -812
         }
       ]
     },
