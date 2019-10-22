@@ -126,6 +126,12 @@
           "y": -897
         },
         {
+          "name": "Center: H Cat",
+          "file": "PixelTraa/cen_h.png",
+          "x": -928,
+          "y": -422
+        },
+        {
           "name": "Center: Tiresias",
           "file": "PixelTraa/cen_tiresias.png",
           "x": -1260,
