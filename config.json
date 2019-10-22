@@ -96,6 +96,12 @@
           "y": 848
         },
         {
+          "name": "Main Base: UK",
+          "file": "PixelTraa/mb_UK.png",
+          "x": 1595,
+          "y": 787
+        },
+        {
           "name": "Center: Stevonnie",
           "file": "PixelTraa/cen_stevonnie.png",
           "x": -1040,
