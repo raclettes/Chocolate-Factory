@@ -142,6 +142,12 @@
           "file": "PixelTraa/cen_tiresias.png",
           "x": -1260,
           "y": -812
+        },
+        {
+          "name": "Abyss: Vapu Grano",
+          "file": "PixelTraa/ab_vapu.png",
+          "x": -1465,
+          "y": -553
         }
       ]
     },
