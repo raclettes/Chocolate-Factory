@@ -148,6 +148,18 @@
           "file": "PixelTraa/ab_vapu.png",
           "x": -1465,
           "y": -553
+        },
+        {
+          "name": "Abyss: Anglerfish",
+          "file": "PixelTraa/ab_angler.png",
+          "x": -791,
+          "y": 127
+        },
+        {
+          "name": "Abyss: Wyvern",
+          "file": "PixelTraa/ab_wyvern.png",
+          "x": 770,
+          "y": -411
         }
       ]
     },
