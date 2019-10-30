@@ -102,6 +102,12 @@
           "y": 787
         },
         {
+          "name": "Main Base: Formula One",
+          "file": "PixelTraa/mb_f1.png",
+          "x": 1909,
+          "y": 320
+        },
+        {
           "name": "Center: Stevonnie",
           "file": "PixelTraa/cen_stevonnie.png",
           "x": -1040,
