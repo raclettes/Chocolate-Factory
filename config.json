@@ -407,6 +407,12 @@
           "x": -2401,
           "y": 1641
         },
+		{
+		  "name": "Other: Apetown",
+          "file": "RedPixel/apetown.png",
+          "x": -1643,
+          "y": -741
+        },
         {
           "name": "Other: 216",
           "file": "RedPixel/other_216.png",
