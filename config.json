@@ -462,6 +462,18 @@
           "y": 358
         }
       ]
+    },
+    {
+      "alerts_channel": 642135312218193926,
+      "alert_levels": [],
+      "templates": [
+        {
+          "name": "Center Diamond",
+          "file": "PixelTraa/centerDiamond.png",
+          "x": -108,
+          "y": -108
+        }
+      ]
     }
   ]
 }
