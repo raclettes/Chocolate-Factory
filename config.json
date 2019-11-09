@@ -222,6 +222,12 @@
           "y": -1034
         },
 		{
+          "name": "Pixelgrad: Sector 06",
+          "file": "RedPixel/pr_sector6.PNG",
+          "x": -900,
+          "y": -697
+        },
+		{
           "name": "Pixelgrad: Sector 07",
           "file": "RedPixel/pr_sector7.png",
           "x": -602,
