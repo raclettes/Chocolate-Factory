@@ -466,6 +466,18 @@
           "file": "Kukistan/friendship.png",
           "x": 569,
           "y": 358
+        },
+        {
+          "name": "My Little Cultist",
+          "file": "Kukistan/my-little-cultist.png",
+          "x": -298,
+          "y": 571
+        },
+        {
+          "name": "Purple Void",
+          "file": "Kukistan/purple.png",
+          "x": -963,
+          "y": 1145
         }
       ]
     },
